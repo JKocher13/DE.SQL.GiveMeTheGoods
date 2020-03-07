@@ -1,0 +1,1 @@
+Select * FROM Students where City = 'a%' or City = 'c%' or City = 's%';

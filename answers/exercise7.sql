@@ -1,0 +1,1 @@
+SELECT * FROM Sutdents WHERE PostalCode IS NOT NULL;

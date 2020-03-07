@@ -1,0 +1,1 @@
+Select * FROM Students WHERE NOT City = 'a%' or City = 'c%' or City = 'i%';
